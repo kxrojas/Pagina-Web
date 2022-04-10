@@ -1,0 +1,17 @@
+body {
+    margin:  0em;
+}
+.clase1 {
+    height: 400px;
+    background-image:url(https://www.xtrafondos.com/descargar.php?id=5498&resolucion=3840x2160);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,0.5);
+    background-blend-mode: darken;
+}
+
+.clase1 small{
+    height: 200px;
+    background-blend-mode: normal;
+}
